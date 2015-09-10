@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimEdit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_style1">EditStyle1Activity</string>
+</resources>
